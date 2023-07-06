@@ -1,5 +1,9 @@
 # Three.js Journey
 
+## DEPLOY
+
+[Mixing HTML and WebGL](https://mixing-html-and-webgl-lemon.vercel.app/)
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
